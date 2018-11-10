@@ -1,8 +1,6 @@
 # Program that retrieves one of my playlists on youtube and downloads the
 # songs through a third party website to a specified folder on user's computer.
 #
-#   Author: Raul Telbisz
-#   Date started: 9/8/16
 #
 #
 #
